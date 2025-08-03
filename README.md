@@ -6,11 +6,11 @@
 <div align="center">
 🔭 I’m currently working on https://discord.gg/wavecl
 
-🌱 I’m currently learning **Switft, Node.js, tailwind**
+🌱 I’m currently learning **Swift, Node.js, tailwind**
 
 💬 Ask me about **html, css, lua, MySQL**
 
-📫 How to reach me: **<a href="https://discord.com/users/953702652347285575/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@lucag" height="30" width="40" /></a>**
+📫 How to reach me: **<a href="https://discord.com/users/648486859592433667/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@lucag" height="30" width="40" /></a>**
 
 <p align="center">
 </p>
